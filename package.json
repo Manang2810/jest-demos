@@ -1,7 +1,7 @@
 {
   "name": "jest-demos",
   "version": "1.0.0",
-  "description": "A collection of simple demos of Jest",
+  "description": "A collection collection of simple demos of Jest",
   "main": "index.js",
   "scripts": {
     "test": "jest"
